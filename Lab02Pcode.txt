@@ -1,0 +1,12 @@
+// Lab02Pcode.txt
+// Jordan Pierson
+// Cosc 1030, Section 12
+// Lab 02 Pseudocode
+// 31 Jan 2018
+
+Create one single integer variable called input and set to zero.
+Ask the user to enter a number 1 through 4
+Store the number entered into the variable input
+Use an if statement that sends an error message indicating that the number entered was not in range and exit the program if the input is not 1, 2, 3, or 4.
+Use a series of else if statements that sends out the corresponding output for each number
+Exit the program

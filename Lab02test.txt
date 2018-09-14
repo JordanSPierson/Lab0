@@ -1,0 +1,29 @@
+// Lab02test.txt
+// Jordan Pierson
+// COSC 1030, Section 12
+// Lab 02 Test
+// 31 Jan 2018
+
+Enter a number 1 to 4.
+1
+One is the loneliest number.
+
+Enter a number 1 to 4.
+2
+Two can be as bad as one.
+
+Enter a number 1 to 4.
+3
+Three is one too many.
+
+Enter a number 1 to 4.
+4
+Four is the last number today.
+
+Enter a number 1 to 4.
+-20
+The input was not in range.
+
+Enter a number 1 to 4.
+57
+The input was not in range.
